@@ -5,5 +5,6 @@
 
 **User can input more than one search in the program.**
 
+![Google Autocomplete](https://user-images.githubusercontent.com/34500151/96146562-6bd66380-0ed4-11eb-8c79-ddf56e4d76ed.PNG)
 
 
